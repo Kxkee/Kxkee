@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I'm Tom, a FullStack developper from France 🇫🇷
+<br>I'm Tom, a FullStack JS developper from France 🇫🇷
 
 
 # 💻 Skills:
