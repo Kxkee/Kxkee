@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Actually working for Qlower<br>📚 42 Paris Student</p>
+<p align="left">✨ FullStack Developer at <a href="https://www.qlower.com" target="_blank">Qlower</a><br>📚 42 Paris Student<br>🟦 Actually learning Golang</p>
 
 ###
 
