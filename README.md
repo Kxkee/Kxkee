@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im a FullStack developer from Paris</p>
+<p align="left">Im a FullStack developer</p>
 
 ###
 
